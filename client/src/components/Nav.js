@@ -173,7 +173,7 @@ const Nav = () => (
     </Menu>
     <Github>
       <a
-        href="https://github.com/bchiang7/spotify-profile"
+        href="https://github.com/sharmil001/spotify-profile-clone"
         target="_blank"
         rel="noopener noreferrer">
         <IconGithub />

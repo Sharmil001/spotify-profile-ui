@@ -5,15 +5,15 @@
   "main": "server/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/spotify-profile.git"
+    "url": "https://github.com/sharmil001/spotify-profile-clon.git"
   },
   "keywords": [],
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bchiang7/spotify-profile/issues"
+    "url": "https://github.com/spotify-profile-clon/spotify-profile-clon/issues"
   },
-  "homepage": "https://github.com/bchiang7/spotify-profile#readme",
+  "homepage": "https://github.com/sharmil001/spotify-profile-clon#readme",
   "engines": {
     "node": "10.13.0"
   },
@@ -45,7 +45,8 @@
     "dotenv": "^8.1.0",
     "express": "~4.17.1",
     "querystring": "~0.2.0",
-    "request": "~2.88.0"
+    "request": "~2.88.0",
+    "spotify-web-api-node": "^5.0.2"
   },
   "devDependencies": {
     "@upstatement/eslint-config": "^0.4.3",
